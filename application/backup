@@ -1,0 +1,19 @@
+create or replace function more_than_m_purchase(in _m integer)
+RETURNS TABLE (full_name varchar, total_cost integer)
+language plpgsql
+as 
+$$
+begin
+	return query 
+	select cast( customer.name || ' ' || customer.last_name as varchar) as full_name, 
+	cast (sum(orders.amount * item.price) as integer) as total_cost 
+	from customer inner join shoppingList on customer.customer_id = shoppingList.customer_id
+	inner join orders on shoppingList.shoppingList_id = orders.shoppingList_id
+	inner join item on orders.item_id = item.item_id 
+	group by full_name
+	having total_cost > _m;
+end; $$;
+
+DROP FUNCTION more_than_m_purchase(integer); 
+
+SELECT public.more_than_m_purchase(20);

@@ -1,0 +1,3167 @@
+.icon-server_group {
+  background-image: url('/browser/server_group/static/img/server_group.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="server_group"] {
+  background-image: url('/browser/server_group/static/img/server_group.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-server {
+  background-image: url('/browser/server/static/img/server.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-server-not-connected {
+  background-image: url('/browser/server/static/img/serverbad.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-coll-database {
+  background-image: url('/browser/database/static/img/coll-database.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.pg-icon-database {
+  background-image: url('/browser/database/static/img/database.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-database-not-connected {
+  background-image: url('/browser/database/static/img/databasebad.svg?ver=42300') !important;
+  border-radius: 10px;
+  background-size: 20px !important;
+  background-repeat: no-repeat;
+  vertical-align: middle;
+  align-content: center;
+  height: 1.3em;
+
+}
+.icon-coll-cast {
+  background-image: url('/browser/cast/static/img/coll-cast.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-cast {
+  background-image: url('/browser/cast/static/img/cast.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="cast"] {
+  background-image: url('/browser/cast/static/img/cast.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-event_trigger {
+  background-image: url('/browser/event_trigger/static/img/coll-event_trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-event_trigger {
+  background-image: url('/browser/event_trigger/static/img/event_trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="event_trigger"] {
+  background-image: url('/browser/event_trigger/static/img/event_trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-extension {
+  background-image: url('/browser/extension/static/img/coll-extension.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-extension {
+  background-image: url('/browser/extension/static/img/extension.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="extension"] {
+  background-image: url('/browser/extension/static/img/extension.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-external_table {
+  background-image: url('/browser/external_table/static/img/coll-external_table.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-external_table {
+  background-image: url('/browser/external_table/static/img/external_table.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="external_table"] {
+  background-image: url('/browser/external_table/static/img/external_table.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-foreign_data_wrapper {
+  background-image: url('/browser/foreign_data_wrapper/static/img/coll-foreign_data_wrapper.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-foreign_data_wrapper {
+  background-image: url('/browser/foreign_data_wrapper/static/img/foreign_data_wrapper.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="foreign_data_wrapper"] {
+  background-image: url('/browser/foreign_data_wrapper/static/img/foreign_data_wrapper.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-foreign_server {
+  background-image: url('/browser/foreign_server/static/img/coll-foreign_server.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-foreign_server {
+  background-image: url('/browser/foreign_server/static/img/foreign_server.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="foreign_server"] {
+  background-image: url('/browser/foreign_server/static/img/foreign_server.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-user_mapping {
+  background-image: url('/browser/user_mapping/static/img/coll-user_mapping.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-user_mapping {
+  background-image: url('/browser/user_mapping/static/img/user_mapping.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="user_mapping"] {
+  background-image: url('/browser/user_mapping/static/img/user_mapping.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-language {
+  background-image: url('/browser/language/static/img/coll-language.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-language {
+  background-image: url('/browser/language/static/img/language.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="language"] {
+  background-image: url('/browser/language/static/img/language.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-schema {
+  background-image: url('/browser/schema/static/img/coll-schema.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-schema {
+  background-image: url('/browser/schema/static/img/schema.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="schema"] {
+  background-image: url('/browser/schema/static/img/schema.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-catalog_object {
+  background-image: url('/browser/catalog_object/static/img/coll-catalog_object.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-catalog_object {
+  background-image: url('/browser/catalog_object/static/img/catalog_object.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="catalog_object"] {
+  background-image: url('/browser/catalog_object/static/img/catalog_object.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-catalog_object_column {
+  background-image: url('/browser/catalog_object_column/static/img/coll-catalog_object_column.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-catalog_object_column {
+  background-image: url('/browser/catalog_object_column/static/img/catalog_object_column.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="catalog_object_column"] {
+  background-image: url('/browser/catalog_object_column/static/img/catalog_object_column.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-collation {
+  background-image: url('/browser/collation/static/img/coll-collation.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-collation {
+  background-image: url('/browser/collation/static/img/collation.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="collation"] {
+  background-image: url('/browser/collation/static/img/collation.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-domain {
+  background-image: url('/browser/domain/static/img/coll-domain.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-domain {
+  background-image: url('/browser/domain/static/img/domain.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="domain"] {
+  background-image: url('/browser/domain/static/img/domain.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-domain_constraints {
+  background-image: url('/browser/domain_constraints/static/img/coll-domain_constraints.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-check-bad, .icon-domain_constraints-bad {
+  background-image: url('/browser/domain_constraints/static/img/domain_constraints-bad.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-check, .icon-domain_constraints {
+  background-image: url('/browser/domain_constraints/static/img/domain_constraints.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-coll-foreign_table {
+  background-image: url('/browser/foreign_table/static/img/coll-foreign_table.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-foreign_table {
+  background-image: url('/browser/foreign_table/static/img/foreign_table.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="foreign_table"] {
+  background-image: url('/browser/foreign_table/static/img/foreign_table.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-fts_configuration {
+  background-image: url('/browser/fts_configuration/static/img/coll-fts_configuration.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-fts_configuration {
+  background-image: url('/browser/fts_configuration/static/img/fts_configuration.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="fts_configuration"] {
+  background-image: url('/browser/fts_configuration/static/img/fts_configuration.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-fts_dictionary {
+  background-image: url('/browser/fts_dictionary/static/img/coll-fts_dictionary.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-fts_dictionary {
+  background-image: url('/browser/fts_dictionary/static/img/fts_dictionary.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="fts_dictionary"] {
+  background-image: url('/browser/fts_dictionary/static/img/fts_dictionary.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-fts_parser {
+  background-image: url('/browser/fts_parser/static/img/coll-fts_parser.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-fts_parser {
+  background-image: url('/browser/fts_parser/static/img/fts_parser.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="fts_parser"] {
+  background-image: url('/browser/fts_parser/static/img/fts_parser.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-fts_template {
+  background-image: url('/browser/fts_template/static/img/coll-fts_template.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-fts_template {
+  background-image: url('/browser/fts_template/static/img/fts_template.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="fts_template"] {
+  background-image: url('/browser/fts_template/static/img/fts_template.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-function {
+  background-image: url('/browser/function/static/img/coll-function.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-function {
+  background-image: url('/browser/function/static/img/function.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="function"] {
+  background-image: url('/browser/function/static/img/function.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-procedure {
+  background-image: url('/browser/procedure/static/img/coll-procedure.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-procedure {
+  background-image: url('/browser/procedure/static/img/procedure.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="procedure"] {
+  background-image: url('/browser/procedure/static/img/procedure.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-trigger_function {
+  background-image: url('/browser/trigger_function/static/img/coll-trigger_function.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-trigger_function {
+  background-image: url('/browser/trigger_function/static/img/trigger_function.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="trigger_function"] {
+  background-image: url('/browser/trigger_function/static/img/trigger_function.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-package {
+  background-image: url('/browser/package/static/img/coll-package.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-package {
+  background-image: url('/browser/package/static/img/package.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="package"] {
+  background-image: url('/browser/package/static/img/package.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-edbfunc {
+  background-image: url('/browser/edbfunc/static/img/coll-edbfunc.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-edbfunc {
+  background-image: url('/browser/edbfunc/static/img/edbfunc.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="edbfunc"] {
+  background-image: url('/browser/edbfunc/static/img/edbfunc.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-edbproc {
+  background-image: url('/browser/edbproc/static/img/coll-edbproc.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-edbproc {
+  background-image: url('/browser/edbproc/static/img/edbproc.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="edbproc"] {
+  background-image: url('/browser/edbproc/static/img/edbproc.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-edbvar {
+  background-image: url('/browser/edbvar/static/img/coll-edbvar.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-edbvar {
+  background-image: url('/browser/edbvar/static/img/edbvar.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="edbvar"] {
+  background-image: url('/browser/edbvar/static/img/edbvar.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-sequence {
+  background-image: url('/browser/sequence/static/img/coll-sequence.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-sequence {
+  background-image: url('/browser/sequence/static/img/sequence.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="sequence"] {
+  background-image: url('/browser/sequence/static/img/sequence.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-synonym {
+  background-image: url('/browser/synonym/static/img/coll-synonym.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-synonym {
+  background-image: url('/browser/synonym/static/img/synonym.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="synonym"] {
+  background-image: url('/browser/synonym/static/img/synonym.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-table {
+  background-image: url('/browser/table/static/img/coll-table.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-table {
+  background-image: url('/browser/table/static/img/table.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="table"] {
+  background-image: url('/browser/table/static/img/table.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-table-inherited {
+  background-image: url('/browser/table/static/img/table-inherited.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="table-inherited"] {
+  background-image: url('/browser/table/static/img/table-inherited.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-table-inherits {
+  background-image: url('/browser/table/static/img/table-inherits.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="table-inherits"] {
+  background-image: url('/browser/table/static/img/table-inherits.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-table-multi-inherit {
+  background-image: url('/browser/table/static/img/table-multi-inherit.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="table-multi-inherit"] {
+  background-image: url('/browser/table/static/img/table-multi-inherit.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-column {
+  background-image: url('/browser/column/static/img/coll-column.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-column {
+  background-image: url('/browser/column/static/img/column.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="column"] {
+  background-image: url('/browser/column/static/img/column.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-compound_trigger {
+  background-image: url('/browser/compound_trigger/static/img/coll-compound_trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-compound_trigger {
+  background-image: url('/browser/compound_trigger/static/img/compound_trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-compound_trigger-bad {
+  background-image: url('/browser/compound_trigger/static/img/compound_trigger-bad.svg?ver=42300') !important;
+  background-size: 20px !important;
+  border-radius: 10px
+}
+.icon-coll-constraints {
+  background-image: url('/browser/constraints/static/img/coll-constraints.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-constraints {
+  background-image: url('/browser/constraints/static/img/constraints.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="constraints"] {
+  background-image: url('/browser/constraints/static/img/constraints.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-check_bad, .icon-check_constraint_bad {
+  background-image: url('/browser/check_constraint/static/img/check-constraint-bad.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-check, .icon-check_constraint {
+  background-image: url('/browser/check_constraint/static/img/check-constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-coll-exclusion_constraint {
+  background-image: url('/browser/exclusion_constraint/static/img/coll-exclusion_constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-exclusion_constraint {
+  background-image: url('/browser/exclusion_constraint/static/img/exclusion_constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="exclusion_constraint"] {
+  background-image: url('/browser/exclusion_constraint/static/img/exclusion_constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-foreign_key {
+  background-image: url('/browser/foreign_key/static/img/coll-foreign_key.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-foreign_key {
+  background-image: url('/browser/foreign_key/static/img/foreign_key.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-foreign_key_no_validate {
+  background-image: url('/browser/foreign_key/static/img/foreign_key_no_validate.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  border-radius: 10px;
+  height: 1.3em;
+}
+.icon-coll-primary_key {
+  background-image: url('/browser/primary_key/static/img/coll-primary_key.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-primary_key {
+  background-image: url('/browser/primary_key/static/img/primary_key.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="primary_key"] {
+  background-image: url('/browser/primary_key/static/img/primary_key.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-unique_constraint {
+  background-image: url('/browser/unique_constraint/static/img/coll-unique_constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-unique_constraint {
+  background-image: url('/browser/unique_constraint/static/img/unique_constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="unique_constraint"] {
+  background-image: url('/browser/unique_constraint/static/img/unique_constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-index {
+  background-image: url('/browser/index/static/img/coll-index.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-index {
+  background-image: url('/browser/index/static/img/index.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="index"] {
+  background-image: url('/browser/index/static/img/index.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-partition {
+  background-image: url('/browser/partition/static/img/coll-partition.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-partition {
+  background-image: url('/browser/partition/static/img/partition.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-partition_table {
+  background-image: url('/browser/partition/static/img/partition_table.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-sub_partition_table {
+  background-image: url('/browser/partition/static/img/sub_partition_table.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  border-radius: 10px;
+  height: 1.3em;
+}
+.icon-coll-compound_trigger {
+  background-image: url('/browser/compound_trigger/static/img/coll-compound_trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-compound_trigger {
+  background-image: url('/browser/compound_trigger/static/img/compound_trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-compound_trigger-bad {
+  background-image: url('/browser/compound_trigger/static/img/compound_trigger-bad.svg?ver=42300') !important;
+  background-size: 20px !important;
+  border-radius: 10px
+}
+.icon-coll-constraints {
+  background-image: url('/browser/constraints/static/img/coll-constraints.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-constraints {
+  background-image: url('/browser/constraints/static/img/constraints.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="constraints"] {
+  background-image: url('/browser/constraints/static/img/constraints.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-check_bad, .icon-check_constraint_bad {
+  background-image: url('/browser/check_constraint/static/img/check-constraint-bad.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-check, .icon-check_constraint {
+  background-image: url('/browser/check_constraint/static/img/check-constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-coll-exclusion_constraint {
+  background-image: url('/browser/exclusion_constraint/static/img/coll-exclusion_constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-exclusion_constraint {
+  background-image: url('/browser/exclusion_constraint/static/img/exclusion_constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="exclusion_constraint"] {
+  background-image: url('/browser/exclusion_constraint/static/img/exclusion_constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-foreign_key {
+  background-image: url('/browser/foreign_key/static/img/coll-foreign_key.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-foreign_key {
+  background-image: url('/browser/foreign_key/static/img/foreign_key.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-foreign_key_no_validate {
+  background-image: url('/browser/foreign_key/static/img/foreign_key_no_validate.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  border-radius: 10px;
+  height: 1.3em;
+}
+.icon-coll-primary_key {
+  background-image: url('/browser/primary_key/static/img/coll-primary_key.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-primary_key {
+  background-image: url('/browser/primary_key/static/img/primary_key.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="primary_key"] {
+  background-image: url('/browser/primary_key/static/img/primary_key.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-unique_constraint {
+  background-image: url('/browser/unique_constraint/static/img/coll-unique_constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-unique_constraint {
+  background-image: url('/browser/unique_constraint/static/img/unique_constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="unique_constraint"] {
+  background-image: url('/browser/unique_constraint/static/img/unique_constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-index {
+  background-image: url('/browser/index/static/img/coll-index.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-index {
+  background-image: url('/browser/index/static/img/index.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="index"] {
+  background-image: url('/browser/index/static/img/index.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-row_security_policy {
+  background-image: url('/browser/row_security_policy/static/img/coll-row_security_policy.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-row_security_policy {
+  background-image: url('/browser/row_security_policy/static/img/row_security_policy.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="row_security_policy"] {
+  background-image: url('/browser/row_security_policy/static/img/row_security_policy.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-rule {
+  background-image: url('/browser/rule/static/img/coll-rule.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-rule{
+  background-image: url('/browser/rule/static/img/rule.svg?ver=42300') !important;
+  border-radius: 10px;
+  background-size: 20px !important;
+  background-repeat: no-repeat;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-coll-trigger {
+  background-image: url('/browser/trigger/static/img/coll-trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-trigger {
+  background-image: url('/browser/trigger/static/img/trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-trigger-bad {
+  background-image: url('/browser/trigger/static/img/trigger-bad.svg?ver=42300') !important;
+  background-size: 20px !important;
+  border-radius: 10px
+}
+.icon-coll-row_security_policy {
+  background-image: url('/browser/row_security_policy/static/img/coll-row_security_policy.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-row_security_policy {
+  background-image: url('/browser/row_security_policy/static/img/row_security_policy.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="row_security_policy"] {
+  background-image: url('/browser/row_security_policy/static/img/row_security_policy.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-rule {
+  background-image: url('/browser/rule/static/img/coll-rule.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-rule{
+  background-image: url('/browser/rule/static/img/rule.svg?ver=42300') !important;
+  border-radius: 10px;
+  background-size: 20px !important;
+  background-repeat: no-repeat;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-coll-trigger {
+  background-image: url('/browser/trigger/static/img/coll-trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-trigger {
+  background-image: url('/browser/trigger/static/img/trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-trigger-bad {
+  background-image: url('/browser/trigger/static/img/trigger-bad.svg?ver=42300') !important;
+  background-size: 20px !important;
+  border-radius: 10px
+}
+.icon-coll-type {
+  background-image: url('/browser/type/static/img/coll-type.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-type {
+  background-image: url('/browser/type/static/img/type.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="type"] {
+  background-image: url('/browser/type/static/img/type.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-view {
+  background-image: url('/browser/view/static/img/coll-view.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-view{
+  background-image: url('/browser/view/static/img/view.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-mview{
+  background-image: url('/browser/mview/static/img/mview.svg?ver=42300') !important;
+  border-radius: 10px;
+  background-size: 20px !important;
+  background-repeat: no-repeat;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-coll-column {
+  background-image: url('/browser/column/static/img/coll-column.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-column {
+  background-image: url('/browser/column/static/img/column.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="column"] {
+  background-image: url('/browser/column/static/img/column.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-index {
+  background-image: url('/browser/index/static/img/coll-index.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-index {
+  background-image: url('/browser/index/static/img/index.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="index"] {
+  background-image: url('/browser/index/static/img/index.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-trigger {
+  background-image: url('/browser/trigger/static/img/coll-trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-trigger {
+  background-image: url('/browser/trigger/static/img/trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-trigger-bad {
+  background-image: url('/browser/trigger/static/img/trigger-bad.svg?ver=42300') !important;
+  background-size: 20px !important;
+  border-radius: 10px
+}
+.icon-coll-rule {
+  background-image: url('/browser/rule/static/img/coll-rule.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-rule{
+  background-image: url('/browser/rule/static/img/rule.svg?ver=42300') !important;
+  border-radius: 10px;
+  background-size: 20px !important;
+  background-repeat: no-repeat;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-coll-compound_trigger {
+  background-image: url('/browser/compound_trigger/static/img/coll-compound_trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-compound_trigger {
+  background-image: url('/browser/compound_trigger/static/img/compound_trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-compound_trigger-bad {
+  background-image: url('/browser/compound_trigger/static/img/compound_trigger-bad.svg?ver=42300') !important;
+  background-size: 20px !important;
+  border-radius: 10px
+}
+.icon-coll-mview {
+  background-image: url('/browser/mview/static/img/coll-mview.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-view{
+  background-image: url('/browser/view/static/img/view.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-mview{
+  background-image: url('/browser/mview/static/img/mview.svg?ver=42300') !important;
+  border-radius: 10px;
+  background-size: 20px !important;
+  background-repeat: no-repeat;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-coll-column {
+  background-image: url('/browser/column/static/img/coll-column.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-column {
+  background-image: url('/browser/column/static/img/column.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="column"] {
+  background-image: url('/browser/column/static/img/column.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-index {
+  background-image: url('/browser/index/static/img/coll-index.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-index {
+  background-image: url('/browser/index/static/img/index.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="index"] {
+  background-image: url('/browser/index/static/img/index.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-trigger {
+  background-image: url('/browser/trigger/static/img/coll-trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-trigger {
+  background-image: url('/browser/trigger/static/img/trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-trigger-bad {
+  background-image: url('/browser/trigger/static/img/trigger-bad.svg?ver=42300') !important;
+  background-size: 20px !important;
+  border-radius: 10px
+}
+.icon-coll-rule {
+  background-image: url('/browser/rule/static/img/coll-rule.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-rule{
+  background-image: url('/browser/rule/static/img/rule.svg?ver=42300') !important;
+  border-radius: 10px;
+  background-size: 20px !important;
+  background-repeat: no-repeat;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-coll-compound_trigger {
+  background-image: url('/browser/compound_trigger/static/img/coll-compound_trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-compound_trigger {
+  background-image: url('/browser/compound_trigger/static/img/compound_trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-compound_trigger-bad {
+  background-image: url('/browser/compound_trigger/static/img/compound_trigger-bad.svg?ver=42300') !important;
+  background-size: 20px !important;
+  border-radius: 10px
+}
+.icon-coll-catalog {
+  background-image: url('/browser/catalog/static/img/coll-catalog.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-catalog {
+  background-image: url('/browser/catalog/static/img/catalog.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="catalog"] {
+  background-image: url('/browser/catalog/static/img/catalog.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-catalog_object {
+  background-image: url('/browser/catalog_object/static/img/coll-catalog_object.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-catalog_object {
+  background-image: url('/browser/catalog_object/static/img/catalog_object.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="catalog_object"] {
+  background-image: url('/browser/catalog_object/static/img/catalog_object.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-catalog_object_column {
+  background-image: url('/browser/catalog_object_column/static/img/coll-catalog_object_column.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-catalog_object_column {
+  background-image: url('/browser/catalog_object_column/static/img/catalog_object_column.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="catalog_object_column"] {
+  background-image: url('/browser/catalog_object_column/static/img/catalog_object_column.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-collation {
+  background-image: url('/browser/collation/static/img/coll-collation.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-collation {
+  background-image: url('/browser/collation/static/img/collation.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="collation"] {
+  background-image: url('/browser/collation/static/img/collation.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-domain {
+  background-image: url('/browser/domain/static/img/coll-domain.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-domain {
+  background-image: url('/browser/domain/static/img/domain.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="domain"] {
+  background-image: url('/browser/domain/static/img/domain.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-domain_constraints {
+  background-image: url('/browser/domain_constraints/static/img/coll-domain_constraints.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-check-bad, .icon-domain_constraints-bad {
+  background-image: url('/browser/domain_constraints/static/img/domain_constraints-bad.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-check, .icon-domain_constraints {
+  background-image: url('/browser/domain_constraints/static/img/domain_constraints.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-coll-foreign_table {
+  background-image: url('/browser/foreign_table/static/img/coll-foreign_table.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-foreign_table {
+  background-image: url('/browser/foreign_table/static/img/foreign_table.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="foreign_table"] {
+  background-image: url('/browser/foreign_table/static/img/foreign_table.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-fts_configuration {
+  background-image: url('/browser/fts_configuration/static/img/coll-fts_configuration.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-fts_configuration {
+  background-image: url('/browser/fts_configuration/static/img/fts_configuration.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="fts_configuration"] {
+  background-image: url('/browser/fts_configuration/static/img/fts_configuration.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-fts_dictionary {
+  background-image: url('/browser/fts_dictionary/static/img/coll-fts_dictionary.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-fts_dictionary {
+  background-image: url('/browser/fts_dictionary/static/img/fts_dictionary.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="fts_dictionary"] {
+  background-image: url('/browser/fts_dictionary/static/img/fts_dictionary.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-fts_parser {
+  background-image: url('/browser/fts_parser/static/img/coll-fts_parser.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-fts_parser {
+  background-image: url('/browser/fts_parser/static/img/fts_parser.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="fts_parser"] {
+  background-image: url('/browser/fts_parser/static/img/fts_parser.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-fts_template {
+  background-image: url('/browser/fts_template/static/img/coll-fts_template.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-fts_template {
+  background-image: url('/browser/fts_template/static/img/fts_template.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="fts_template"] {
+  background-image: url('/browser/fts_template/static/img/fts_template.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-function {
+  background-image: url('/browser/function/static/img/coll-function.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-function {
+  background-image: url('/browser/function/static/img/function.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="function"] {
+  background-image: url('/browser/function/static/img/function.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-procedure {
+  background-image: url('/browser/procedure/static/img/coll-procedure.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-procedure {
+  background-image: url('/browser/procedure/static/img/procedure.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="procedure"] {
+  background-image: url('/browser/procedure/static/img/procedure.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-trigger_function {
+  background-image: url('/browser/trigger_function/static/img/coll-trigger_function.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-trigger_function {
+  background-image: url('/browser/trigger_function/static/img/trigger_function.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="trigger_function"] {
+  background-image: url('/browser/trigger_function/static/img/trigger_function.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-package {
+  background-image: url('/browser/package/static/img/coll-package.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-package {
+  background-image: url('/browser/package/static/img/package.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="package"] {
+  background-image: url('/browser/package/static/img/package.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-edbfunc {
+  background-image: url('/browser/edbfunc/static/img/coll-edbfunc.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-edbfunc {
+  background-image: url('/browser/edbfunc/static/img/edbfunc.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="edbfunc"] {
+  background-image: url('/browser/edbfunc/static/img/edbfunc.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-edbproc {
+  background-image: url('/browser/edbproc/static/img/coll-edbproc.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-edbproc {
+  background-image: url('/browser/edbproc/static/img/edbproc.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="edbproc"] {
+  background-image: url('/browser/edbproc/static/img/edbproc.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-edbvar {
+  background-image: url('/browser/edbvar/static/img/coll-edbvar.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-edbvar {
+  background-image: url('/browser/edbvar/static/img/edbvar.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="edbvar"] {
+  background-image: url('/browser/edbvar/static/img/edbvar.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-sequence {
+  background-image: url('/browser/sequence/static/img/coll-sequence.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-sequence {
+  background-image: url('/browser/sequence/static/img/sequence.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="sequence"] {
+  background-image: url('/browser/sequence/static/img/sequence.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-synonym {
+  background-image: url('/browser/synonym/static/img/coll-synonym.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-synonym {
+  background-image: url('/browser/synonym/static/img/synonym.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="synonym"] {
+  background-image: url('/browser/synonym/static/img/synonym.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-table {
+  background-image: url('/browser/table/static/img/coll-table.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-table {
+  background-image: url('/browser/table/static/img/table.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="table"] {
+  background-image: url('/browser/table/static/img/table.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-table-inherited {
+  background-image: url('/browser/table/static/img/table-inherited.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="table-inherited"] {
+  background-image: url('/browser/table/static/img/table-inherited.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-table-inherits {
+  background-image: url('/browser/table/static/img/table-inherits.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="table-inherits"] {
+  background-image: url('/browser/table/static/img/table-inherits.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-table-multi-inherit {
+  background-image: url('/browser/table/static/img/table-multi-inherit.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="table-multi-inherit"] {
+  background-image: url('/browser/table/static/img/table-multi-inherit.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-column {
+  background-image: url('/browser/column/static/img/coll-column.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-column {
+  background-image: url('/browser/column/static/img/column.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="column"] {
+  background-image: url('/browser/column/static/img/column.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-compound_trigger {
+  background-image: url('/browser/compound_trigger/static/img/coll-compound_trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-compound_trigger {
+  background-image: url('/browser/compound_trigger/static/img/compound_trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-compound_trigger-bad {
+  background-image: url('/browser/compound_trigger/static/img/compound_trigger-bad.svg?ver=42300') !important;
+  background-size: 20px !important;
+  border-radius: 10px
+}
+.icon-coll-constraints {
+  background-image: url('/browser/constraints/static/img/coll-constraints.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-constraints {
+  background-image: url('/browser/constraints/static/img/constraints.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="constraints"] {
+  background-image: url('/browser/constraints/static/img/constraints.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-check_bad, .icon-check_constraint_bad {
+  background-image: url('/browser/check_constraint/static/img/check-constraint-bad.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-check, .icon-check_constraint {
+  background-image: url('/browser/check_constraint/static/img/check-constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-coll-exclusion_constraint {
+  background-image: url('/browser/exclusion_constraint/static/img/coll-exclusion_constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-exclusion_constraint {
+  background-image: url('/browser/exclusion_constraint/static/img/exclusion_constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="exclusion_constraint"] {
+  background-image: url('/browser/exclusion_constraint/static/img/exclusion_constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-foreign_key {
+  background-image: url('/browser/foreign_key/static/img/coll-foreign_key.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-foreign_key {
+  background-image: url('/browser/foreign_key/static/img/foreign_key.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-foreign_key_no_validate {
+  background-image: url('/browser/foreign_key/static/img/foreign_key_no_validate.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  border-radius: 10px;
+  height: 1.3em;
+}
+.icon-coll-primary_key {
+  background-image: url('/browser/primary_key/static/img/coll-primary_key.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-primary_key {
+  background-image: url('/browser/primary_key/static/img/primary_key.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="primary_key"] {
+  background-image: url('/browser/primary_key/static/img/primary_key.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-unique_constraint {
+  background-image: url('/browser/unique_constraint/static/img/coll-unique_constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-unique_constraint {
+  background-image: url('/browser/unique_constraint/static/img/unique_constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="unique_constraint"] {
+  background-image: url('/browser/unique_constraint/static/img/unique_constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-index {
+  background-image: url('/browser/index/static/img/coll-index.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-index {
+  background-image: url('/browser/index/static/img/index.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="index"] {
+  background-image: url('/browser/index/static/img/index.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-partition {
+  background-image: url('/browser/partition/static/img/coll-partition.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-partition {
+  background-image: url('/browser/partition/static/img/partition.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-partition_table {
+  background-image: url('/browser/partition/static/img/partition_table.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-sub_partition_table {
+  background-image: url('/browser/partition/static/img/sub_partition_table.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  border-radius: 10px;
+  height: 1.3em;
+}
+.icon-coll-compound_trigger {
+  background-image: url('/browser/compound_trigger/static/img/coll-compound_trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-compound_trigger {
+  background-image: url('/browser/compound_trigger/static/img/compound_trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-compound_trigger-bad {
+  background-image: url('/browser/compound_trigger/static/img/compound_trigger-bad.svg?ver=42300') !important;
+  background-size: 20px !important;
+  border-radius: 10px
+}
+.icon-coll-constraints {
+  background-image: url('/browser/constraints/static/img/coll-constraints.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-constraints {
+  background-image: url('/browser/constraints/static/img/constraints.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="constraints"] {
+  background-image: url('/browser/constraints/static/img/constraints.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-check_bad, .icon-check_constraint_bad {
+  background-image: url('/browser/check_constraint/static/img/check-constraint-bad.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-check, .icon-check_constraint {
+  background-image: url('/browser/check_constraint/static/img/check-constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-coll-exclusion_constraint {
+  background-image: url('/browser/exclusion_constraint/static/img/coll-exclusion_constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-exclusion_constraint {
+  background-image: url('/browser/exclusion_constraint/static/img/exclusion_constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="exclusion_constraint"] {
+  background-image: url('/browser/exclusion_constraint/static/img/exclusion_constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-foreign_key {
+  background-image: url('/browser/foreign_key/static/img/coll-foreign_key.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-foreign_key {
+  background-image: url('/browser/foreign_key/static/img/foreign_key.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-foreign_key_no_validate {
+  background-image: url('/browser/foreign_key/static/img/foreign_key_no_validate.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  border-radius: 10px;
+  height: 1.3em;
+}
+.icon-coll-primary_key {
+  background-image: url('/browser/primary_key/static/img/coll-primary_key.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-primary_key {
+  background-image: url('/browser/primary_key/static/img/primary_key.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="primary_key"] {
+  background-image: url('/browser/primary_key/static/img/primary_key.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-unique_constraint {
+  background-image: url('/browser/unique_constraint/static/img/coll-unique_constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-unique_constraint {
+  background-image: url('/browser/unique_constraint/static/img/unique_constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="unique_constraint"] {
+  background-image: url('/browser/unique_constraint/static/img/unique_constraint.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-index {
+  background-image: url('/browser/index/static/img/coll-index.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-index {
+  background-image: url('/browser/index/static/img/index.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="index"] {
+  background-image: url('/browser/index/static/img/index.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-row_security_policy {
+  background-image: url('/browser/row_security_policy/static/img/coll-row_security_policy.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-row_security_policy {
+  background-image: url('/browser/row_security_policy/static/img/row_security_policy.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="row_security_policy"] {
+  background-image: url('/browser/row_security_policy/static/img/row_security_policy.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-rule {
+  background-image: url('/browser/rule/static/img/coll-rule.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-rule{
+  background-image: url('/browser/rule/static/img/rule.svg?ver=42300') !important;
+  border-radius: 10px;
+  background-size: 20px !important;
+  background-repeat: no-repeat;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-coll-trigger {
+  background-image: url('/browser/trigger/static/img/coll-trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-trigger {
+  background-image: url('/browser/trigger/static/img/trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-trigger-bad {
+  background-image: url('/browser/trigger/static/img/trigger-bad.svg?ver=42300') !important;
+  background-size: 20px !important;
+  border-radius: 10px
+}
+.icon-coll-row_security_policy {
+  background-image: url('/browser/row_security_policy/static/img/coll-row_security_policy.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-row_security_policy {
+  background-image: url('/browser/row_security_policy/static/img/row_security_policy.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="row_security_policy"] {
+  background-image: url('/browser/row_security_policy/static/img/row_security_policy.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-rule {
+  background-image: url('/browser/rule/static/img/coll-rule.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-rule{
+  background-image: url('/browser/rule/static/img/rule.svg?ver=42300') !important;
+  border-radius: 10px;
+  background-size: 20px !important;
+  background-repeat: no-repeat;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-coll-trigger {
+  background-image: url('/browser/trigger/static/img/coll-trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-trigger {
+  background-image: url('/browser/trigger/static/img/trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-trigger-bad {
+  background-image: url('/browser/trigger/static/img/trigger-bad.svg?ver=42300') !important;
+  background-size: 20px !important;
+  border-radius: 10px
+}
+.icon-coll-type {
+  background-image: url('/browser/type/static/img/coll-type.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-type {
+  background-image: url('/browser/type/static/img/type.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="type"] {
+  background-image: url('/browser/type/static/img/type.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-view {
+  background-image: url('/browser/view/static/img/coll-view.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-view{
+  background-image: url('/browser/view/static/img/view.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-mview{
+  background-image: url('/browser/mview/static/img/mview.svg?ver=42300') !important;
+  border-radius: 10px;
+  background-size: 20px !important;
+  background-repeat: no-repeat;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-coll-column {
+  background-image: url('/browser/column/static/img/coll-column.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-column {
+  background-image: url('/browser/column/static/img/column.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="column"] {
+  background-image: url('/browser/column/static/img/column.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-index {
+  background-image: url('/browser/index/static/img/coll-index.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-index {
+  background-image: url('/browser/index/static/img/index.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="index"] {
+  background-image: url('/browser/index/static/img/index.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-trigger {
+  background-image: url('/browser/trigger/static/img/coll-trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-trigger {
+  background-image: url('/browser/trigger/static/img/trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-trigger-bad {
+  background-image: url('/browser/trigger/static/img/trigger-bad.svg?ver=42300') !important;
+  background-size: 20px !important;
+  border-radius: 10px
+}
+.icon-coll-rule {
+  background-image: url('/browser/rule/static/img/coll-rule.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-rule{
+  background-image: url('/browser/rule/static/img/rule.svg?ver=42300') !important;
+  border-radius: 10px;
+  background-size: 20px !important;
+  background-repeat: no-repeat;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-coll-compound_trigger {
+  background-image: url('/browser/compound_trigger/static/img/coll-compound_trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-compound_trigger {
+  background-image: url('/browser/compound_trigger/static/img/compound_trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-compound_trigger-bad {
+  background-image: url('/browser/compound_trigger/static/img/compound_trigger-bad.svg?ver=42300') !important;
+  background-size: 20px !important;
+  border-radius: 10px
+}
+.icon-coll-mview {
+  background-image: url('/browser/mview/static/img/coll-mview.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-view{
+  background-image: url('/browser/view/static/img/view.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-mview{
+  background-image: url('/browser/mview/static/img/mview.svg?ver=42300') !important;
+  border-radius: 10px;
+  background-size: 20px !important;
+  background-repeat: no-repeat;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-coll-column {
+  background-image: url('/browser/column/static/img/coll-column.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-column {
+  background-image: url('/browser/column/static/img/column.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="column"] {
+  background-image: url('/browser/column/static/img/column.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-index {
+  background-image: url('/browser/index/static/img/coll-index.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-index {
+  background-image: url('/browser/index/static/img/index.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="index"] {
+  background-image: url('/browser/index/static/img/index.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-trigger {
+  background-image: url('/browser/trigger/static/img/coll-trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-trigger {
+  background-image: url('/browser/trigger/static/img/trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-trigger-bad {
+  background-image: url('/browser/trigger/static/img/trigger-bad.svg?ver=42300') !important;
+  background-size: 20px !important;
+  border-radius: 10px
+}
+.icon-coll-rule {
+  background-image: url('/browser/rule/static/img/coll-rule.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-rule{
+  background-image: url('/browser/rule/static/img/rule.svg?ver=42300') !important;
+  border-radius: 10px;
+  background-size: 20px !important;
+  background-repeat: no-repeat;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-coll-compound_trigger {
+  background-image: url('/browser/compound_trigger/static/img/coll-compound_trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-compound_trigger {
+  background-image: url('/browser/compound_trigger/static/img/compound_trigger.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-compound_trigger-bad {
+  background-image: url('/browser/compound_trigger/static/img/compound_trigger-bad.svg?ver=42300') !important;
+  background-size: 20px !important;
+  border-radius: 10px
+}
+.icon-coll-pga_job {
+  background-image: url('/browser/pga_job/static/img/coll-pga_job.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-pga_job {
+  background-image: url('/browser/pga_job/static/img/pga_job.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-pga_job-disabled {
+  background-image: url('/browser/pga_job/static/img/pga_job-disabled.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-pga_schedule {
+  background-image: url('/browser/pga_schedule/static/img/pga_schedule.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-pga_schedule-disabled {
+  background-image: url('/browser/pga_schedule/static/img/pga_schedule-disabled.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-coll-pga_schedule {
+  background-image: url('/browser/pga_schedule/static/img/coll-pga_schedule.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-pga_jobstep {
+  background-image: url('/browser/pga_jobstep/static/img/pga_jobstep.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-pga_jobstep-disabled {
+  background-image: url('/browser/pga_jobstep/static/img/pga_jobstep-disabled.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.icon-coll-pga_jobstep {
+  background-image: url('/browser/pga_jobstep/static/img/coll-pga_jobstep.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-coll-resource_group {
+  background-image: url('/browser/resource_group/static/img/coll-resource_group.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-resource_group {
+  background-image: url('/browser/resource_group/static/img/resource_group.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="resource_group"] {
+  background-image: url('/browser/resource_group/static/img/resource_group.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-role {
+  background-image: url('/browser/role/static/img/coll-role.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-role {
+  background-image: url('/browser/role/static/img/role.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+ height: 1.3em;
+}
+
+.icon-group {
+  background-image: url('/browser/role/static/img/group.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+
+.pgadmin-node-select option[node="role"] {
+  background-image: url('/browser/role/static/img/role.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+
+.pgadmin-node-select option[node="group"] {
+  background-image: url('/browser/role/static/img/group.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-coll-tablespace {
+  background-image: url('/browser/tablespace/static/img/coll-tablespace.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-tablespace {
+  background-image: url('/browser/tablespace/static/img/tablespace.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 15px;
+}
+
+.pgadmin-node-select option[node="tablespace"] {
+  background-image: url('/browser/tablespace/static/img/tablespace.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  background-position: center left;
+}
+.icon-gpdb {
+  background-image: url('/browser/server/static/img/gpdb.png?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-ppas {
+  background-image: url('/browser/server/static/img/ppas.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}
+.icon-pg {
+  background-image: url('/browser/server/static/img/pg.svg?ver=42300') !important;
+  background-repeat: no-repeat;
+  background-size: 20px !important;
+  align-content: center;
+  vertical-align: middle;
+  height: 1.3em;
+}

@@ -1,0 +1,24 @@
+create or replace function shopList(in date1 timestamp,in date2 timestamp)
+RETURNS TABLE (
+        shoppinglist_id integer,
+		first_name varchar,
+		last_name varchar,
+        date timestamp,
+		item_name varchar,
+		amount integer
+)
+language plpgsql
+as $$
+begin
+   return query select shoppingList.shoppingList_id, customer.name, customer.last_name,
+					   shoppingList.date, item.name, orders.amount
+		  from shoppingList inner join customer on shoppingList.customer_id = customer.customer_id
+	 	  inner join orders on shoppingList.shoppingList_id = orders.shoppingList_id
+          inner join item on orders.item_id = item.item_id
+		  where shoppinglist.date >= date1
+		  and shoppinglist.date <= date2;
+end; $$;
+
+DROP FUNCTION shopList(timestamp without time zone,timestamp without time zone);
+
+SELECT public.shopList('2021-12-23 13:04:00' ,'2021-12-23 13:28:00')

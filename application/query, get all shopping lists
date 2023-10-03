@@ -1,0 +1,11 @@
+conn = psycopg2.connect(host="127.0.0.1", database="onlineShop", user="postgres", password="root")
+    cur = conn.cursor()
+    cur.execute("select shoppingList.shoppingList_id, customer.name || ' ' || customer.last_name as full_name, "
+                "shoppingList.date, item.name, orders.amount "
+                "from shoppingList inner join customer on shoppingList.customer_id = customer.customer_id "
+                "inner join orders on shoppingList.shoppingList_id = orders.shoppingList_id "
+                "inner join item on orders.item_id = item.item_id;")
+    data = cur.fetchall()
+    conn.commit()
+    cur.close()
+    return data
